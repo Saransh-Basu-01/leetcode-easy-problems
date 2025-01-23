@@ -1,4 +1,5 @@
 LeetCode Easy Problems 🚀
+
 Welcome to my LeetCode Easy Problems repository! This is a collection of solved easy-level coding problems from LeetCode, aimed at building a strong foundation in problem-solving and coding. The solutions are implemented in a clear and concise manner, ensuring readability and understanding.
 
 About This Repository 📚
